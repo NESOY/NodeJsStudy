@@ -1,0 +1,10 @@
+npm install async
+npm install jade
+
+npm list
+npm uninstall jade
+
+npm install -g mocha
+
+// package.json
+npm init

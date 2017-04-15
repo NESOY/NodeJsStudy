@@ -1,0 +1,17 @@
+{
+  "name": "debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assert.js",
+  "dependencies": {
+    "should": "^7.1.1"
+  },
+  "devDependencies": {
+    "should": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha test1"
+  },
+  "author": "",
+  "license": "ISC"
+}
